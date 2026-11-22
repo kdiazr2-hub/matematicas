@@ -12,24 +12,40 @@ en `progreso.md`.
 ├── progreso.md      perfil, avance y bitácora de sesiones
 ├── apuntes/         resúmenes de cada tema
 ├── ejercicios/      ejercicios resueltos y corregidos
-├── Cálculo de varias variables - Stewart_compressed.pdf
+├── stewart.pdf     Stewart, 7ª ed. (principal)
+├── Cálculo de varias variables - Stewart_compressed.pdf   Stewart, 6ª ed.
 └── Probabilidad_y_Estadistica_-_Walpole_Mye.pdf
 ```
 
-## Stewart — *Cálculo de varias variables* (6ª ed.)
+## Stewart — *Cálculo de varias variables. Trascendentes tempranas*
 
-Página del PDF = página del libro − 600.
+Hay dos ediciones del mismo libro. **Usamos la 7ª como principal**: es más
+reciente y trae las respuestas a los ejercicios impares (apéndice I). La 6ª queda
+como respaldo, con otras explicaciones y ejercicios.
 
-| Cap. | Tema | Pág. libro |
+| Edición | Archivo | Página del PDF = |
 |---|---|---|
-| 10 | Ecuaciones paramétricas y coordenadas polares | 620 |
-| 11 | Sucesiones y series infinitas | 674 |
-| 12 | Vectores y la geometría del espacio | 764 |
-| 13 | Funciones vectoriales | 816 |
-| 14 | Derivadas parciales | 854 |
-| 15 | Integrales múltiples | 950 |
-| 16 | Cálculo vectorial | 1026 |
-| 17 | Ecuaciones diferenciales de segundo orden | 1110 |
+| 7ª (principal) | `stewart.pdf` | página del libro − 603 |
+| 6ª | `Cálculo de varias variables - Stewart_compressed.pdf` | página del libro − 600 |
+
+| Cap. | Tema | Pág. libro 7ª | Pág. libro 6ª |
+|---|---|---|---|
+| 10 | Ecuaciones paramétricas y coordenadas polares | 635 | 620 |
+| 11 | Sucesiones y series infinitas | 689 | 674 |
+| 12 | Vectores y geometría del espacio | 785 | 764 |
+| 13 | Funciones vectoriales | 839 | 816 |
+| 14 | Derivadas parciales | 877 | 854 |
+| 15 | Integrales múltiples | 973 | 950 |
+| 16 | Cálculo vectorial | 1055 | 1026 |
+| 17 | Ecuaciones diferenciales de segundo orden | 1141 | 1110 |
+
+Apéndices de la 7ª (página del PDF = número del apéndice + 567): F, demostración de
+teoremas (A2); H, números complejos (A13); **I, respuestas a los ejercicios impares
+(A21, PDF 588)**; índice alfabético (A51).
+
+**Ojo con la numeración del capítulo 15:** la 7ª añade la sección 15.6 (área de
+superficie), así que integrales triples pasa a ser 15.7 y el cambio de variables 15.10
+(en la 6ª son 15.6 y 15.9).
 
 ## Walpole, Myers, Myers y Ye — *Probabilidad y estadística para ingeniería y ciencias* (9ª ed.)
 
@@ -65,7 +81,7 @@ alimenta al otro:
 2. **Walpole 3–4** (variables aleatorias, esperanza) — usa integrales de una variable;
    las distribuciones conjuntas (3.4) piden integrales dobles → **Stewart 15.1–15.3**.
 3. **Walpole 5–6** (distribuciones) junto con **Stewart 12–14** (vectores, derivadas parciales).
-4. **Walpole 7–8** (cambio de variable, distribuciones muestrales) ↔ **Stewart 15.9**
+4. **Walpole 7–8** (cambio de variable, distribuciones muestrales) ↔ **Stewart 15.10**
    (jacobiano) y 15.4 (la integral de la normal en polares).
 5. **Walpole 9–10** (estimación, pruebas de hipótesis).
 6. **Walpole 11–12** (regresión) ↔ **Stewart 14.7** (mínimos cuadrados como un problema de optimización).

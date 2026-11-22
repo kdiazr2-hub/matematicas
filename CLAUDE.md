@@ -45,10 +45,14 @@ Los libros están en la raíz del repositorio. Para leer una sección usar
 
 | Libro | Archivo | Página del PDF = |
 |---|---|---|
-| Stewart, *Cálculo de varias variables*, 6ª ed. (caps. 10–17) | `Cálculo de varias variables - Stewart_compressed.pdf` | página del libro − 600 |
+| Stewart, *Cálculo de varias variables*, **7ª ed.** (caps. 10–17) — principal | `stewart.pdf` | página del libro − 603 (apéndices: A*n* + 567) |
+| Stewart, *Cálculo de varias variables*, 6ª ed. — respaldo | `Cálculo de varias variables - Stewart_compressed.pdf` | página del libro − 600 |
 | Walpole et al., *Probabilidad y estadística para ingeniería y ciencias*, 9ª ed. | `Probabilidad_y_Estadistica_-_Walpole_Mye.pdf` | página del libro + 22 |
 
-El índice por capítulos con páginas está en `README.md`.
+El índice por capítulos con páginas está en `README.md`. Citar secciones y
+ejercicios según la **7ª edición** de Stewart. Su apéndice I (PDF 588 en adelante)
+trae las respuestas de los ejercicios impares: sirve para que el estudiante verifique
+solo, pero no revelarlas antes de que lo intente.
 
 ## Registro del progreso
 
