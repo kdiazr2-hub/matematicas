@@ -9,6 +9,7 @@ en `progreso.md`.
 ```
 .
 ├── CLAUDE.md        instrucciones y método del tutor
+├── plan.md          plan de estudio por fases
 ├── progreso.md      perfil, avance y bitácora de sesiones
 ├── apuntes/         resúmenes de cada tema
 ├── ejercicios/      ejercicios resueltos y corregidos
