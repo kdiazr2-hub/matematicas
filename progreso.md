@@ -3,7 +3,7 @@
 ## Perfil del estudiante
 
 - Objetivo: aprender por gusto (sin examen ni curso; autodidacta).
-- Base previa: dice no tener bases. Nivel exacto de aritmética y álgebra por diagnosticar.
+- Base previa: dice no tener bases, pero el diagnóstico muestra buena aritmética, fracciones y ecuaciones lineales.
 - Plan: cálculo y estadística en paralelo (ver `plan.md`).
 - Tiempo disponible por semana: por definir.
 - Cómo aprende mejor: por descubrir.
@@ -12,14 +12,15 @@
 
 | Tema | Estado | Notas |
 |---|---|---|
-| 0.1 Números | por diagnosticar | |
+| 0.1 Números | dominado | Fracciones, orden de operaciones y ecuaciones lineales bien |
+| 0.3 Rectas y pendiente | en curso | Entiende pendiente como cambio de y por cada paso en x; modela con y = mx + b |
 | B1 Describir datos | pendiente | |
 
 Estados: pendiente · en curso · dominado · repasar
 
 ## Dificultades recurrentes
 
--
+- Potencias: se equivocó en 2^5 (dio 64, contó un factor de más); se corrigió solo. Vigilar errores de conteo.
 
 ## Bitácora de sesiones
 
@@ -27,3 +28,4 @@ Estados: pendiente · en curso · dominado · repasar
 |---|---|---|---|
 | 2026-11-22 | Organización del repositorio | Se preparó la estructura y el índice de ambos libros | — |
 | 2026-11-22 | Objetivos y plan | Se definió el objetivo y se creó `plan.md` | Diagnóstico de nivel |
+| 2026-11-22 | Diagnóstico, potencias y rectas | Pendiente como razón de cambio; modeló el problema de la planta | Potencias y exponente 0; limitaciones de un modelo lineal |
